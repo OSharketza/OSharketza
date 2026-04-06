@@ -9,9 +9,8 @@ I work at the intersection of **AI, GTM systems, and developer‑adjacent platfo
 ## 🚀 What I’m working on
 
 - A LinkedIn-native suite of content creation tools for distribution-first teams  
-- Org-level dashboards for Chief Growth / Innovation functions  
 - AI-powered prospecting & enrichment agents  
-- A lightweight habit-tracking system to support builder consistency  
+- A lightweight habit-tracking system
 
 ---
 
