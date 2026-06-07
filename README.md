@@ -5,7 +5,6 @@
 # Onam Sharma
 
 ### `AI Product & GTM Operator`
-#### *I build systems that ship, sell, and scale.*
 
 <br/>
 
