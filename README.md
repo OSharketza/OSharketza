@@ -33,7 +33,7 @@ Hi 👋
 
 ## 🏗️ Built
 
-`Genie.AI` multi-agent sales execution · `Content Engine` 4-agent, auto-publishes to CMS · `Innovation Dashboard` role-based portal + chatbot · `VitalAccess` B2B/B2C healthcare platform
+`Genie` multi-agent sales execution · `Content Engine` 4-agent, auto-publishes to CMS · `Innovation Dashboard` role-based portal + chatbot · `VitalAccess` B2B/B2C healthcare platform
 
 **Currently building:** agentic systems with MCP, and AI-native GTM motions.
 
