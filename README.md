@@ -71,16 +71,3 @@ I also take products to market end to end: positioning, ICP, messaging, sales en
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
 
 `PRDs` · `Roadmaps` · `JTBD` · `Positioning` · `ICP` · `Sales Enablement` · `SEO/AEO` · `Funnel Analytics`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=OSharketza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-![Streak](https://streak-stats.demolab.com?user=OSharketza&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-</div>
-
----
