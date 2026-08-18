@@ -23,7 +23,7 @@ Hi 👋
 
 👨‍💻 My name is Onam and I live in Bengaluru, India. I build products, build agents, and take them to market.
 
-🛠️ I've built things like Genie - a multi-agent sales engine, and led go-to-market for products like Kepsla, Healix, and VOCA. The full story, case studies, and work live on [my portfolio](https://onam.pages.dev/).
+🛠️ I've built things like Genie - a multi-agent sales engine, and led go-to-market for products like Kepsla, Healix, and VOCA. The full story, case studies, and work live on [my portfolio](onam.online).
 
 🎓 I also teach Product & GTM as a Guest Instructor at Polaris Institute of Technology and sit on the jury at the [Institute of Product Leadership](https://www.productleadership.com/onam-sharma/).
 
