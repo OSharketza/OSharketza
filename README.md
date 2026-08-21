@@ -9,7 +9,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=OSharketza&label=Profile%20Views&color=58a6ff&style=flat-square)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-onam.online-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://onam.online)
+[![Portfolio](https://img.shields.io/badge/Portfolio-onam.online-58a6ff?style=for-the-badge&logo=cloudflare&logoColor=white)](https://onam.online/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onamsharma/)
 [![IPL](https://img.shields.io/badge/Jury_@_IPL-FF6B35?style=for-the-badge)](https://www.productleadership.com/onam-sharma/)
 
